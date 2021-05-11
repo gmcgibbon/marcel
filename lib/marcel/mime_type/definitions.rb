@@ -44,3 +44,5 @@ Marcel::MimeType.extend "font/otf", magic: [[0, "OTTO"]], extensions: %w( otf ),
 Marcel::MimeType.extend "application/vnd.adobe.flash.movie", magic: [[0, "FWS"], [0, "CWS"]], extensions: %w( swf )
 Marcel::MimeType.extend "application/sql", extensions: %w( sql )
 Marcel::MimeType.extend "text/vcard", magic: [[0, "BEGIN:VCARD"]], extensions: %w( vcf ), parents: "text/plain"
+
+Marcel::MimeType.extend "application/x-mimearchive", magic: [[0, 'From: <Saved by Windows Internet Explorer 8>'], [0, "From: \"Saved by Internet Explorer 11\""], [0, 'MIME-Version: 1.0', [[16..512, "\nContent-Type: multipart/related"]]]], extensions: %w( mht mhtml ), parents: "multipart/related"

@@ -1,0 +1,1635 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://guides.rubyonrails.org/
+Subject: Ruby on Rails Guides
+Date: Tue, 11 May 2021 22:52:39 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----"
+
+
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: text/html
+Content-ID: <frame-7B02C1244D273B45DAEE8C4B6470A710@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://guides.rubyonrails.org/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">
+  <title>Ruby on Rails Guides</title>
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://guides.rubyonr=
+ails.org/stylesheets/style.css" data-turbolinks-track=3D"reload">
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://guides.rubyonr=
+ails.org/stylesheets/print.css" media=3D"print">
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://guides.rubyonr=
+ails.org/stylesheets/highlight.css" data-turbolinks-track=3D"reload">
+  <link href=3D"https://guides.rubyonrails.org/images/favicon.ico" rel=3D"s=
+hortcut icon" type=3D"image/x-icon">
+ =20
+ =20
+ =20
+  <meta property=3D"og:title" content=3D"Ruby on Rails Guides">
+  <meta name=3D"description" content=3D"Ruby on Rails Guides">
+  <meta property=3D"og:description" content=3D"Ruby on Rails Guides">
+  <meta property=3D"og:locale" content=3D"en_US">
+  <meta property=3D"og:site_name" content=3D"Ruby on Rails Guides">
+  <meta property=3D"og:image" content=3D"https://avatars.githubusercontent.=
+com/u/4223">
+  <meta property=3D"og:type" content=3D"website">
+</head>
+<body class=3D"guide">
+  <div>
+    <div id=3D"version-badge">v6.1.3.2</div>
+  </div>
+  <div id=3D"topNav">
+    <div class=3D"wrapper">
+      <strong class=3D"more-info-label">More at <a href=3D"https://rubyonra=
+ils.org/">rubyonrails.org:</a> </strong>
+      <span class=3D"red-button more-info-button">
+        More Ruby on Rails
+      </span>
+      <ul class=3D"more-info-links s-hidden">
+        <li class=3D"more-info"><a href=3D"https://weblog.rubyonrails.org/"=
+>Blog</a></li>
+        <li class=3D"more-info"><a href=3D"https://guides.rubyonrails.org/"=
+>Guides</a></li>
+        <li class=3D"more-info"><a href=3D"https://api.rubyonrails.org/">AP=
+I</a></li>
+        <li class=3D"more-info"><a href=3D"https://discuss.rubyonrails.org/=
+">Forum</a></li>
+        <li class=3D"more-info"><a href=3D"https://github.com/rails/rails">=
+Contribute on GitHub</a></li>
+      </ul>
+    </div>
+  </div>
+  <div id=3D"header">
+    <div class=3D"wrapper clearfix">
+      <h1><a href=3D"https://guides.rubyonrails.org/index.html" title=3D"Re=
+turn to home page">Guides.rubyonrails.org</a></h1>
+      <ul class=3D"nav">
+        <li><a class=3D"nav-item" href=3D"https://guides.rubyonrails.org/in=
+dex.html">Home</a></li>
+        <li class=3D"guides-index guides-index-large">
+          <a href=3D"https://guides.rubyonrails.org/index.html" id=3D"guide=
+sMenu" class=3D"guides-index-item nav-item">Guides Index</a>
+          <div id=3D"guides" class=3D"clearfix" style=3D"display: none;">
+            <hr>
+            <dl class=3D"guides-section-container">
+                <div class=3D"guides-section">
+                  <dt>Start Here</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/getting_sta=
+rted.html">Getting Started with Rails</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Models</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/active_reco=
+rd_basics.html">Active Record Basics</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/active_reco=
+rd_migrations.html">Active Record Migrations</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/active_reco=
+rd_validations.html">Active Record Validations</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/active_reco=
+rd_callbacks.html">Active Record Callbacks</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/association=
+_basics.html">Active Record Associations</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/active_reco=
+rd_querying.html">Active Record Query Interface</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Views</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/layouts_and=
+_rendering.html">Layouts and Rendering in Rails</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/form_helper=
+s.html">Action View Form Helpers</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Controllers</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/action_cont=
+roller_overview.html">Action Controller Overview</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/routing.htm=
+l">Rails Routing from the Outside In</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Other Components</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/active_supp=
+ort_core_extensions.html">Active Support Core Extensions</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/action_mail=
+er_basics.html">Action Mailer Basics</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/active_job_=
+basics.html">Active Job Basics</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/active_stor=
+age_overview.html">Active Storage Overview</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/action_cabl=
+e_overview.html">Action Cable Overview</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Digging Deeper</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/i18n.html">=
+Rails Internationalization (I18n) API</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/testing.htm=
+l">Testing Rails Applications</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/security.ht=
+ml">Securing Rails Applications</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/debugging_r=
+ails_applications.html">Debugging Rails Applications</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/configuring=
+.html">Configuring Rails Applications</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/command_lin=
+e.html">The Rails Command Line</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/asset_pipel=
+ine.html">The Asset Pipeline</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/autoloading=
+_and_reloading_constants.html">Autoloading and Reloading Constants (Zeitwer=
+k Mode)</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/autoloading=
+_and_reloading_constants_classic_mode.html">Autoloading and Reloading Const=
+ants (Classic Mode)</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/caching_wit=
+h_rails.html">Caching with Rails: An Overview</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/api_app.htm=
+l">Using Rails for API-only Applications</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Extending Rails</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/rails_on_ra=
+ck.html">Rails on Rack</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/generators.=
+html">Creating and Customizing Rails Generators &amp; Templates</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Contributions</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/contributin=
+g_to_ruby_on_rails.html">Contributing to Ruby on Rails</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/api_documen=
+tation_guidelines.html">API Documentation Guidelines</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/ruby_on_rai=
+ls_guides_guidelines.html">Guides Guidelines</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Policies</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/maintenance=
+_policy.html">Maintenance Policy</a></dd>
+                </div>
+                <div class=3D"guides-section">
+                  <dt>Release Notes</dt>
+                  <dd><a href=3D"https://guides.rubyonrails.org/upgrading_r=
+uby_on_rails.html">Upgrading Ruby on Rails</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/6_1_release=
+_notes.html">Version 6.1 - December 2020</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/6_0_release=
+_notes.html">Version 6.0 - August 2019</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/5_2_release=
+_notes.html">Version 5.2 - April 2018</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/5_1_release=
+_notes.html">Version 5.1 - April 2017</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/5_0_release=
+_notes.html">Version 5.0 - June 2016</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/4_2_release=
+_notes.html">Version 4.2 - December 2014</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/4_1_release=
+_notes.html">Version 4.1 - April 2014</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/4_0_release=
+_notes.html">Version 4.0 - June 2013</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/3_2_release=
+_notes.html">Version 3.2 - January 2012</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/3_1_release=
+_notes.html">Version 3.1 - August 2011</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/3_0_release=
+_notes.html">Version 3.0 - August 2010</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/2_3_release=
+_notes.html">Version 2.3 - March 2009</a></dd>
+                  <dd><a href=3D"https://guides.rubyonrails.org/2_2_release=
+_notes.html">Version 2.2 - November 2008</a></dd>
+                </div>
+            </dl>
+          </div>
+        </li>
+        <li><a class=3D"nav-item" href=3D"https://guides.rubyonrails.org/co=
+ntributing_to_ruby_on_rails.html">Contribute</a></li>
+        <li class=3D"guides-index guides-index-small">
+          <select class=3D"guides-index-item nav-item">
+            <option value=3D"index.html">Guides Index</option>
+              <optgroup label=3D"Start Here">
+                  <option value=3D"getting_started.html">Getting Started wi=
+th Rails</option>
+              </optgroup>
+              <optgroup label=3D"Models">
+                  <option value=3D"active_record_basics.html">Active Record=
+ Basics</option>
+                  <option value=3D"active_record_migrations.html">Active Re=
+cord Migrations</option>
+                  <option value=3D"active_record_validations.html">Active R=
+ecord Validations</option>
+                  <option value=3D"active_record_callbacks.html">Active Rec=
+ord Callbacks</option>
+                  <option value=3D"association_basics.html">Active Record A=
+ssociations</option>
+                  <option value=3D"active_record_querying.html">Active Reco=
+rd Query Interface</option>
+              </optgroup>
+              <optgroup label=3D"Views">
+                  <option value=3D"layouts_and_rendering.html">Layouts and =
+Rendering in Rails</option>
+                  <option value=3D"form_helpers.html">Action View Form Help=
+ers</option>
+              </optgroup>
+              <optgroup label=3D"Controllers">
+                  <option value=3D"action_controller_overview.html">Action =
+Controller Overview</option>
+                  <option value=3D"routing.html">Rails Routing from the Out=
+side In</option>
+              </optgroup>
+              <optgroup label=3D"Other Components">
+                  <option value=3D"active_support_core_extensions.html">Act=
+ive Support Core Extensions</option>
+                  <option value=3D"action_mailer_basics.html">Action Mailer=
+ Basics</option>
+                  <option value=3D"active_job_basics.html">Active Job Basic=
+s</option>
+                  <option value=3D"active_storage_overview.html">Active Sto=
+rage Overview</option>
+                  <option value=3D"action_cable_overview.html">Action Cable=
+ Overview</option>
+              </optgroup>
+              <optgroup label=3D"Digging Deeper">
+                  <option value=3D"i18n.html">Rails Internationalization (I=
+18n) API</option>
+                  <option value=3D"testing.html">Testing Rails Applications=
+</option>
+                  <option value=3D"security.html">Securing Rails Applicatio=
+ns</option>
+                  <option value=3D"debugging_rails_applications.html">Debug=
+ging Rails Applications</option>
+                  <option value=3D"configuring.html">Configuring Rails Appl=
+ications</option>
+                  <option value=3D"command_line.html">The Rails Command Lin=
+e</option>
+                  <option value=3D"asset_pipeline.html">The Asset Pipeline<=
+/option>
+                  <option value=3D"autoloading_and_reloading_constants.html=
+">Autoloading and Reloading Constants (Zeitwerk Mode)</option>
+                  <option value=3D"autoloading_and_reloading_constants_clas=
+sic_mode.html">Autoloading and Reloading Constants (Classic Mode)</option>
+                  <option value=3D"caching_with_rails.html">Caching with Ra=
+ils: An Overview</option>
+                  <option value=3D"api_app.html">Using Rails for API-only A=
+pplications</option>
+              </optgroup>
+              <optgroup label=3D"Extending Rails">
+                  <option value=3D"rails_on_rack.html">Rails on Rack</optio=
+n>
+                  <option value=3D"generators.html">Creating and Customizin=
+g Rails Generators &amp; Templates</option>
+              </optgroup>
+              <optgroup label=3D"Contributions">
+                  <option value=3D"contributing_to_ruby_on_rails.html">Cont=
+ributing to Ruby on Rails</option>
+                  <option value=3D"api_documentation_guidelines.html">API D=
+ocumentation Guidelines</option>
+                  <option value=3D"ruby_on_rails_guides_guidelines.html">Gu=
+ides Guidelines</option>
+              </optgroup>
+              <optgroup label=3D"Policies">
+                  <option value=3D"maintenance_policy.html">Maintenance Pol=
+icy</option>
+              </optgroup>
+              <optgroup label=3D"Release Notes">
+                  <option value=3D"upgrading_ruby_on_rails.html">Upgrading =
+Ruby on Rails</option>
+                  <option value=3D"6_1_release_notes.html">Version 6.1 - De=
+cember 2020</option>
+                  <option value=3D"6_0_release_notes.html">Version 6.0 - Au=
+gust 2019</option>
+                  <option value=3D"5_2_release_notes.html">Version 5.2 - Ap=
+ril 2018</option>
+                  <option value=3D"5_1_release_notes.html">Version 5.1 - Ap=
+ril 2017</option>
+                  <option value=3D"5_0_release_notes.html">Version 5.0 - Ju=
+ne 2016</option>
+                  <option value=3D"4_2_release_notes.html">Version 4.2 - De=
+cember 2014</option>
+                  <option value=3D"4_1_release_notes.html">Version 4.1 - Ap=
+ril 2014</option>
+                  <option value=3D"4_0_release_notes.html">Version 4.0 - Ju=
+ne 2013</option>
+                  <option value=3D"3_2_release_notes.html">Version 3.2 - Ja=
+nuary 2012</option>
+                  <option value=3D"3_1_release_notes.html">Version 3.1 - Au=
+gust 2011</option>
+                  <option value=3D"3_0_release_notes.html">Version 3.0 - Au=
+gust 2010</option>
+                  <option value=3D"2_3_release_notes.html">Version 2.3 - Ma=
+rch 2009</option>
+                  <option value=3D"2_2_release_notes.html">Version 2.2 - No=
+vember 2008</option>
+              </optgroup>
+          </select>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <hr class=3D"hide">
+
+  <div id=3D"feature">
+    <div class=3D"wrapper">
+      <h2>Ruby on Rails Guides (v6.1.3.2)</h2>
+
+<p>
+  These are the new guides for Rails 6.1 based on <a href=3D"https://github=
+.com/rails/rails/tree/v6.1.3.2">v6.1.3.2</a>.
+  These guides are designed to make you immediately productive with Rails, =
+and to help you understand how all of the pieces fit together.
+</p>
+<p>
+The guides for earlier releases:
+<a href=3D"https://guides.rubyonrails.org/v6.0/">Rails 6.0</a>,
+<a href=3D"https://guides.rubyonrails.org/v5.2/">Rails 5.2</a>,
+<a href=3D"https://guides.rubyonrails.org/v5.1/">Rails 5.1</a>,
+<a href=3D"https://guides.rubyonrails.org/v5.0/">Rails 5.0</a>,
+<a href=3D"https://guides.rubyonrails.org/v4.2/">Rails 4.2</a>,
+<a href=3D"https://guides.rubyonrails.org/v4.1/">Rails 4.1</a>,
+<a href=3D"https://guides.rubyonrails.org/v4.0/">Rails 4.0</a>,
+<a href=3D"https://guides.rubyonrails.org/v3.2/">Rails 3.2</a>,
+<a href=3D"https://guides.rubyonrails.org/v3.1/">Rails 3.1</a>,
+<a href=3D"https://guides.rubyonrails.org/v3.0/">Rails 3.0</a>, and
+<a href=3D"https://guides.rubyonrails.org/v2.3/">Rails 2.3</a>.
+</p>
+
+
+
+      <div id=3D"subCol">
+  <dl>
+    <dt></dt>
+      <dd class=3D"kindle">Rails Guides are also available for <a href=3D"h=
+ttps://guides.rubyonrails.org/kindle/ruby_on_rails_guides_v6.1.3.2.mobi">Ki=
+ndle</a>.</dd>
+    <dd class=3D"work-in-progress">Guides marked with this icon are current=
+ly being worked on and will not be available in the Guides Index menu. Whil=
+e still useful, they may contain incomplete information and even errors. Yo=
+u can help by reviewing them and posting your comments and corrections.</dd=
+>
+  </dl>
+</div>
+
+    </div>
+  </div>
+
+  <div id=3D"container">
+    <div class=3D"wrapper">
+      <div id=3D"mainCol">
+       =20
+
+
+  <h3>Start Here</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/getting_started.html">G=
+etting Started with Rails</a></dt><dd>
+        <p>Everything you need to know to install Rails and create your fir=
+st application.</p>
+</dd>  </dl>
+  <h3>Models</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/active_record_basics.ht=
+ml">Active Record Basics</a></dt><dd>
+        <p>This guide will get you started with models, persistence to data=
+base, and the Active Record pattern and library.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_record_migr=
+ations.html">Active Record Migrations</a></dt><dd>
+        <p>This guide covers how you can use Active Record migrations to al=
+ter your database in a structured and organized manner.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_record_vali=
+dations.html">Active Record Validations</a></dt><dd>
+        <p>This guide covers how you can use Active Record validations.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_record_call=
+backs.html">Active Record Callbacks</a></dt><dd>
+        <p>This guide covers how you can use Active Record callbacks.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/association_basics=
+.html">Active Record Associations</a></dt><dd>
+        <p>This guide covers all the associations provided by Active Record=
+.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_record_quer=
+ying.html">Active Record Query Interface</a></dt><dd>
+        <p>This guide covers the database query interface provided by Activ=
+e Record.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_model_basic=
+s.html">Active Model Basics</a></dt><dd class=3D"work-in-progress">Work in =
+progress</dd><dd>
+        <p>This guide covers the use of model classes without Active Record=
+.</p>
+</dd>  </dl>
+  <h3>Views</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/action_view_overview.ht=
+ml">Action View Overview</a></dt><dd class=3D"work-in-progress">Work in pro=
+gress</dd><dd>
+        <p>This guide provides an introduction to Action View.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/layouts_and_render=
+ing.html">Layouts and Rendering in Rails</a></dt><dd>
+        <p>This guide covers the basic layout features of Action Controller=
+ and Action View, including rendering and redirecting, using content_for bl=
+ocks, and working with partials.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/action_view_helper=
+s.html">Action View Helpers</a></dt><dd class=3D"work-in-progress">Work in =
+progress</dd><dd>
+        <p>This guide introduces a few of the more common view helpers.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/form_helpers.html"=
+>Action View Form Helpers</a></dt><dd>
+        <p>Guide to using built-in Form helpers.</p>
+</dd>  </dl>
+  <h3>Controllers</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/action_controller_overv=
+iew.html">Action Controller Overview</a></dt><dd>
+        <p>This guide covers how controllers work and how they fit into the=
+ request cycle in your application. It includes sessions, filters, and cook=
+ies, data streaming, and dealing with exceptions raised by a request, among=
+ other topics.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/routing.html">Rail=
+s Routing from the Outside In</a></dt><dd>
+        <p>This guide covers the user-facing features of Rails routing. If =
+you want to understand how to use routing in your own Rails applications, s=
+tart here.</p>
+</dd>  </dl>
+  <h3>Other Components</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/active_support_core_ext=
+ensions.html">Active Support Core Extensions</a></dt><dd>
+        <p>This guide documents the Ruby core extensions defined in Active =
+Support.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/action_mailer_basi=
+cs.html">Action Mailer Basics</a></dt><dd>
+        <p>This guide describes how to use Action Mailer to send emails.</p=
+>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/action_mailbox_bas=
+ics.html">Action Mailbox Basics</a></dt><dd class=3D"work-in-progress">Work=
+ in progress</dd><dd>
+        <p>This guide describes how to use Action Mailbox to receive emails=
+.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/action_text_overvi=
+ew.html">Action Text Overview</a></dt><dd class=3D"work-in-progress">Work i=
+n progress</dd><dd>
+        <p>This guide describes how to use Action Text to handle rich text =
+content.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_job_basics.=
+html">Active Job Basics</a></dt><dd>
+        <p>This guide provides you with all you need to get started creatin=
+g, enqueuing, and executing background jobs.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_storage_ove=
+rview.html">Active Storage Overview</a></dt><dd>
+        <p>This guide covers how to attach files to your Active Record mode=
+ls.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/action_cable_overv=
+iew.html">Action Cable Overview</a></dt><dd>
+        <p>This guide explains how Action Cable works, and how to use WebSo=
+ckets to create real-time features.</p>
+</dd>  </dl>
+  <h3>Digging Deeper</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/i18n.html">Rails Intern=
+ationalization (I18n) API</a></dt><dd>
+        <p>This guide covers how to add internationalization to your applic=
+ations. Your application will be able to translate content to different lan=
+guages, change pluralization rules, use correct date formats for each count=
+ry, and so on.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/testing.html">Test=
+ing Rails Applications</a></dt><dd>
+        <p>This is a rather comprehensive guide to the various testing faci=
+lities in Rails. It covers everything from 'What is a test?' to Integration=
+ Testing. Enjoy.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/security.html">Sec=
+uring Rails Applications</a></dt><dd>
+        <p>This guide describes common security problems in web application=
+s and how to avoid them with Rails.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/debugging_rails_ap=
+plications.html">Debugging Rails Applications</a></dt><dd>
+        <p>This guide describes how to debug Rails applications. It covers =
+the different ways of achieving this and how to understand what is happenin=
+g "behind the scenes" of your code.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/configuring.html">=
+Configuring Rails Applications</a></dt><dd>
+        <p>This guide covers the basic configuration settings for a Rails a=
+pplication.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/command_line.html"=
+>The Rails Command Line</a></dt><dd>
+        <p>This guide covers the command line tools provided by Rails.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/asset_pipeline.htm=
+l">The Asset Pipeline</a></dt><dd>
+        <p>This guide documents the asset pipeline.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/working_with_javas=
+cript_in_rails.html">Working with JavaScript in Rails</a></dt><dd class=3D"=
+work-in-progress">Work in progress</dd><dd>
+        <p>This guide covers the built-in Ajax/JavaScript functionality of =
+Rails.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/initialization.htm=
+l">The Rails Initialization Process</a></dt><dd class=3D"work-in-progress">=
+Work in progress</dd><dd>
+        <p>This guide explains the internals of the Rails initialization pr=
+ocess.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/autoloading_and_re=
+loading_constants.html">Autoloading and Reloading Constants (Zeitwerk Mode)=
+</a></dt><dd>
+        <p>This guide documents how autoloading and reloading constants wor=
+k (Zeitwerk mode).</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/autoloading_and_re=
+loading_constants_classic_mode.html">Autoloading and Reloading Constants (C=
+lassic Mode)</a></dt><dd>
+        <p>This guide documents how autoloading and reloading constants wor=
+k (Classic mode).</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/caching_with_rails=
+.html">Caching with Rails: An Overview</a></dt><dd>
+        <p>This guide is an introduction to speeding up your Rails applicat=
+ion with caching.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_support_ins=
+trumentation.html">Active Support Instrumentation</a></dt><dd class=3D"work=
+-in-progress">Work in progress</dd><dd>
+        <p>This guide explains how to use the instrumentation API inside of=
+ Active Support to measure events inside of Rails and other Ruby code.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/api_app.html">Usin=
+g Rails for API-only Applications</a></dt><dd>
+        <p>This guide explains how to effectively use Rails to develop a JS=
+ON API application.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_record_post=
+gresql.html">Active Record and PostgreSQL</a></dt><dd class=3D"work-in-prog=
+ress">Work in progress</dd><dd>
+        <p>This guide covers PostgreSQL specific usage of Active Record.</p=
+>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/active_record_mult=
+iple_databases.html">Multiple Databases with Active Record</a></dt><dd clas=
+s=3D"work-in-progress">Work in progress</dd><dd>
+        <p>This guide covers using multiple databases in your application.<=
+/p>
+</dd>  </dl>
+  <h3>Extending Rails</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/plugins.html">The Basic=
+s of Creating Rails Plugins</a></dt><dd class=3D"work-in-progress">Work in =
+progress</dd><dd>
+        <p>This guide covers how to build a plugin to extend the functional=
+ity of Rails.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/rails_on_rack.html=
+">Rails on Rack</a></dt><dd>
+        <p>This guide covers Rails integration with Rack and interfacing wi=
+th other Rack components.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/generators.html">C=
+reating and Customizing Rails Generators &amp; Templates</a></dt><dd>
+        <p>This guide covers the process of adding a brand new generator to=
+ your extension or providing an alternative to an element of a built-in Rai=
+ls generator (such as providing alternative test stubs for the scaffold gen=
+erator).</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/engines.html">Gett=
+ing Started with Engines</a></dt><dd class=3D"work-in-progress">Work in pro=
+gress</dd><dd>
+        <p>This guide explains how to write a mountable engine.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/threading_and_code=
+_execution.html">Threading and Code Execution in Rails</a></dt><dd class=3D=
+"work-in-progress">Work in progress</dd><dd>
+        <p>This guide describes the considerations needed and tools availab=
+le when working directly with concurrency in a Rails application.</p>
+</dd>  </dl>
+  <h3>Contributions</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/contributing_to_ruby_on=
+_rails.html">Contributing to Ruby on Rails</a></dt><dd>
+        <p>Rails is not "someone else's framework". This guide covers a var=
+iety of ways that you can get involved in the ongoing development of Rails.=
+</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/api_documentation_=
+guidelines.html">API Documentation Guidelines</a></dt><dd>
+        <p>This guide documents the Ruby on Rails API documentation guideli=
+nes.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/ruby_on_rails_guid=
+es_guidelines.html">Guides Guidelines</a></dt><dd>
+        <p>This guide documents the Ruby on Rails guides guidelines.</p>
+</dd>  </dl>
+  <h3>Policies</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/maintenance_policy.html=
+">Maintenance Policy</a></dt><dd>
+        <p>What versions of Ruby on Rails are currently supported, and when=
+ to expect new versions.</p>
+</dd>  </dl>
+  <h3>Release Notes</h3>
+  <dl>
+      <dt><a href=3D"https://guides.rubyonrails.org/upgrading_ruby_on_rails=
+.html">Upgrading Ruby on Rails</a></dt><dd>
+        <p>This guide helps in upgrading applications to latest Ruby on Rai=
+ls versions.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/6_1_release_notes.=
+html">Version 6.1 - December 2020</a></dt><dd>
+        <p>Release notes for Rails 6.1.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/6_0_release_notes.=
+html">Version 6.0 - August 2019</a></dt><dd>
+        <p>Release notes for Rails 6.0.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/5_2_release_notes.=
+html">Version 5.2 - April 2018</a></dt><dd>
+        <p>Release notes for Rails 5.2.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/5_1_release_notes.=
+html">Version 5.1 - April 2017</a></dt><dd>
+        <p>Release notes for Rails 5.1.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/5_0_release_notes.=
+html">Version 5.0 - June 2016</a></dt><dd>
+        <p>Release notes for Rails 5.0.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/4_2_release_notes.=
+html">Version 4.2 - December 2014</a></dt><dd>
+        <p>Release notes for Rails 4.2.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/4_1_release_notes.=
+html">Version 4.1 - April 2014</a></dt><dd>
+        <p>Release notes for Rails 4.1.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/4_0_release_notes.=
+html">Version 4.0 - June 2013</a></dt><dd>
+        <p>Release notes for Rails 4.0.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/3_2_release_notes.=
+html">Version 3.2 - January 2012</a></dt><dd>
+        <p>Release notes for Rails 3.2.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/3_1_release_notes.=
+html">Version 3.1 - August 2011</a></dt><dd>
+        <p>Release notes for Rails 3.1.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/3_0_release_notes.=
+html">Version 3.0 - August 2010</a></dt><dd>
+        <p>Release notes for Rails 3.0.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/2_3_release_notes.=
+html">Version 2.3 - March 2009</a></dt><dd>
+        <p>Release notes for Rails 2.3.</p>
+</dd>      <dt><a href=3D"https://guides.rubyonrails.org/2_2_release_notes.=
+html">Version 2.2 - November 2008</a></dt><dd>
+        <p>Release notes for Rails 2.2.</p>
+</dd>  </dl>
+
+
+        <h3>Feedback</h3>
+        <p>
+          You're encouraged to help improve the quality of this guide.
+        </p>
+        <p>
+          Please contribute if you see any typos or factual errors.
+          To get started, you can read our <a href=3D"https://edgeguides.ru=
+byonrails.org/contributing_to_ruby_on_rails.html#contributing-to-the-rails-=
+documentation">documentation contributions</a> section.
+        </p>
+        <p>
+          You may also find incomplete content or stuff that is not up to d=
+ate.
+          Please do add any missing documentation for main. Make sure to ch=
+eck
+          <a href=3D"https://edgeguides.rubyonrails.org/">Edge Guides</a> f=
+irst to verify
+          if the issues are already fixed or not on the main branch.
+          Check the <a href=3D"https://guides.rubyonrails.org/ruby_on_rails=
+_guides_guidelines.html">Ruby on Rails Guides Guidelines</a>
+          for style and conventions.
+        </p>
+        <p>
+          If for whatever reason you spot something to fix but cannot patch=
+ it yourself, please
+          <a href=3D"https://github.com/rails/rails/issues">open an issue</=
+a>.
+        </p>
+        <p>And last but not least, any kind of discussion regarding Ruby on=
+ Rails
+          documentation is very welcome on the <a href=3D"https://discuss.r=
+ubyonrails.org/c/rubyonrails-docs">rubyonrails-docs mailing list</a>.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <hr class=3D"hide">
+  <div id=3D"footer">
+    <div class=3D"wrapper">
+      <p>This work is licensed under a <a href=3D"https://creativecommons.o=
+rg/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 Interna=
+tional</a> License</p>
+<p>"Rails", "Ruby on Rails", and the Rails logo are trademarks of David Hei=
+nemeier Hansson. All rights reserved.</p>
+
+    </div>
+  </div>
+
+
+</body></html>
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://guides.rubyonrails.org/stylesheets/style.css
+
+@charset "utf-8";
+
+@import url("reset.css");
+
+@import url("main.css");
+
+@import url("turbolinks.css");
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://guides.rubyonrails.org/stylesheets/reset.css
+
+@charset "utf-8";
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, b=
+lockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, f=
+ont, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b=
+, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, tabl=
+e, caption, tbody, tfoot, thead, tr, th, td { margin: 0px; padding: 0px; bo=
+rder: 0px; outline: 0px; font-size: 100%; background: transparent; }
+
+body { line-height: 1; color: black; background: white; }
+
+a img { border: none; }
+
+ins { text-decoration: none; }
+
+del { text-decoration: line-through; }
+
+:focus { outline: 0px; outline-offset: 0px; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+caption, th, td { text-align: left; font-weight: normal; }
+
+blockquote, q { quotes: none; }
+
+blockquote::before, blockquote::after, q::before, q::after { content: none;=
+ }
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://guides.rubyonrails.org/stylesheets/main.css
+
+@charset "utf-8";
+
+.left { float: left; margin-right: 1em; }
+
+.right { float: right; margin-left: 1em; }
+
+@media screen and (max-width: 480px) {
+  .left, .right { float: none; }
+}
+
+.small { font-size: smaller; }
+
+.large { font-size: larger; }
+
+.hide { display: none; }
+
+ul, ol { margin: 0px 1.5em 1.5em; }
+
+ul { list-style-type: disc; }
+
+ol { list-style-type: decimal; }
+
+dl { margin: 0px 0px 1.5em; }
+
+dl dt { font-weight: bold; }
+
+dd { margin-left: 1.5em; }
+
+pre, code { font-size: 1em; font-family: "Anonymous Pro", Inconsolata, Menl=
+o, Consolas, "Bitstream Vera Sans Mono", "Courier New", monospace; line-hei=
+ght: 1.5; margin: 1em 0px; overflow: auto; color: rgb(34, 34, 34); }
+
+p code, ul code { background: rgb(238, 238, 238); border-radius: 2px; paddi=
+ng: 1px 3px; }
+
+pre, tt, code { white-space: pre-wrap; overflow-wrap: break-word; }
+
+abbr, acronym { border-bottom: 1px dotted rgb(102, 102, 102); }
+
+address { margin: 0px 0px 1.5em; font-style: italic; }
+
+del { color: rgb(102, 102, 102); }
+
+blockquote { margin: 1.5em; color: rgb(102, 102, 102); font-style: italic; =
+}
+
+strong { font-weight: bold; }
+
+em, dfn { font-style: italic; }
+
+dfn { font-weight: bold; }
+
+sup, sub { line-height: 0; }
+
+p { margin: 0px 0px 1.5em; }
+
+label { font-weight: bold; }
+
+fieldset { padding: 1.4em; margin: 0px 0px 1.5em; border: 1px solid rgb(204=
+, 204, 204); }
+
+legend { font-weight: bold; font-size: 1.2em; }
+
+input.text, input.title, textarea, select { margin: 0.5em 0px; border: 1px =
+solid rgb(187, 187, 187); }
+
+table { margin: 0px 0px 1.5em; background: rgb(255, 255, 255); border-colla=
+pse: collapse; }
+
+tbody, thead { border: 2px solid rgb(204, 204, 204); }
+
+table th, table td { padding: 9px 10px; border: 1px solid rgb(204, 204, 204=
+); border-collapse: collapse; }
+
+table th { border-bottom: 2px solid rgb(204, 204, 204); background: rgb(238=
+, 238, 238); font-weight: bold; }
+
+@media only screen and (max-width: 480px) {
+  table { display: block; overflow-x: auto; }
+  td { min-width: 7em; }
+}
+
+img { max-width: 100%; }
+
+body { text-align: center; font-family: Helvetica, Arial, sans-serif; font-=
+size: 87.5%; line-height: 1.5; background: rgb(255, 255, 255); color: rgb(1=
+53, 153, 153); }
+
+.wrapper { text-align: left; margin: 0px auto; max-width: 960px; padding: 0=
+px 1em; }
+
+.red-button { display: inline-block; border-top: 1px solid rgba(255, 255, 2=
+55, 0.5); background: -webkit-linear-gradient(top, rgb(197, 47, 36), rgb(11=
+7, 25, 19)); padding: 9px 18px; border-radius: 11px; box-shadow: rgb(0, 0, =
+0) 0px 1px 0px; text-shadow: rgba(0, 0, 0, 0.4) 0px 1px 0px; color: white; =
+font-size: 15px; font-family: Helvetica, Arial, sans-serif; text-decoration=
+: none; vertical-align: middle; cursor: pointer; }
+
+.red-button:active { border-top: none; padding-top: 10px; background: -webk=
+it-linear-gradient(top, rgb(117, 25, 19), rgb(197, 47, 36)); }
+
+#topNav { padding: 1em 0px; color: rgb(86, 86, 86); background: rgb(34, 34,=
+ 34); }
+
+.s-hidden { display: none; }
+
+@media screen and (min-width: 1025px) {
+  .more-info-button { display: none; }
+  .more-info-links { list-style: none; display: inline; margin: 0px; }
+  .more-info { display: inline-block; }
+  .more-info::after { content: " |"; }
+  .more-info:last-child::after { content: ""; }
+}
+
+@media screen and (max-width: 1024px) {
+  #topNav .wrapper { text-align: center; }
+  .more-info-button { position: relative; z-index: 25; }
+  .more-info-label { display: none; }
+  .more-info-container { position: absolute; top: 0.5em; z-index: 20; margi=
+n: 0px auto; left: 0px; right: 0px; width: 20em; }
+  .more-info-links { display: block; list-style: none; background-color: rg=
+b(197, 47, 36); border-radius: 5px; padding-top: 5.25em; border: 1px solid =
+rgb(152, 9, 5); }
+  .more-info-links.s-hidden { display: none; }
+  .more-info { padding: 0.75em; border-top: 1px solid rgb(152, 9, 5); }
+  .more-info a, .more-info a:link, .more-info a:visited { display: block; c=
+olor: white; width: 100%; height: 100%; text-decoration: none; text-transfo=
+rm: uppercase; }
+}
+
+.clipboard-button { background: rgb(219, 219, 219); border: 0px; border-rad=
+ius: 5px; padding: 2px 10px; position: absolute; bottom: 2px; right: 2px; }
+
+.clipboard-button:active { background: rgb(204, 204, 204); }
+
+.clipboard-content { opacity: 0; position: absolute; z-index: -1; }
+
+#header { background: url("../images/header_tile.gif") repeat-x rgb(197, 47=
+, 36); color: rgb(255, 255, 255); padding: 1.5em 0px; z-index: 99; }
+
+#feature { background: url("../images/feature_tile.gif") repeat-x rgb(213, =
+233, 246); color: rgb(51, 51, 51); padding: 0.5em 0px 1.5em; }
+
+#container { color: rgb(51, 51, 51); padding: 0.5em 0px 1.5em; }
+
+#mainCol { max-width: 630px; margin-left: 2em; }
+
+#subCol { position: absolute; z-index: 0; top: 21px; right: 0px; background=
+: rgb(255, 255, 255); padding: 1em 1.5em 1em 1.25em; width: 20em; font-size=
+: 0.9285em; line-height: 1.3846; margin-right: 1em; }
+
+@media screen and (max-width: 800px) {
+  #subCol { position: static; width: inherit; margin-left: -1em; margin-rig=
+ht: 0px; padding-right: 1.25em; }
+}
+
+#footer { padding: 2em 0px; background: url("../images/footer_tile.gif") re=
+peat-x rgb(34, 34, 34); }
+
+#footer .wrapper { padding-left: 1em; max-width: 960px; }
+
+#header .wrapper, #topNav .wrapper, #feature .wrapper { padding-left: 1em; =
+max-width: 960px; }
+
+#feature .wrapper { max-width: 720px; padding-right: 23em; position: relati=
+ve; z-index: 0; }
+
+@media screen and (max-width: 960px) {
+  #container .wrapper { padding-right: 23em; }
+}
+
+@media screen and (max-width: 800px) {
+  #feature .wrapper, #container .wrapper { padding-right: 0px; }
+}
+
+a, a:link, a:visited { color: rgb(238, 63, 63); text-decoration: underline;=
+ }
+
+#mainCol a, #subCol a, #feature a { color: rgb(152, 9, 5); }
+
+#mainCol a code, #subCol a code, #feature a code { color: rgb(152, 9, 5); }
+
+#mainCol a.anchorlink, #mainCol a.anchorlink code { color: rgb(51, 51, 51);=
+ }
+
+#mainCol a.anchorlink { text-decoration: none; }
+
+#mainCol a.anchorlink:hover { text-decoration: underline; }
+
+.nav { margin: 1.5em 0px 0px; padding: 0px; list-style: none; float: right;=
+ font-size: 1.2857em; }
+
+.nav .nav-item { color: rgb(255, 255, 255); text-decoration: none; }
+
+.nav .nav-item:hover { text-decoration: underline; }
+
+.guides-index-large, .guides-index-small .guides-index-item { padding: 0.5e=
+m 1.5em; border-radius: 1em; background: rgb(152, 9, 5); position: relative=
+; color: white; }
+
+.guides-index .guides-index-item { background: url("../images/nav_arrow.gif=
+") right top no-repeat rgb(152, 9, 5); padding-right: 1em; position: relati=
+ve; z-index: 15; padding-bottom: 0.125em; }
+
+.guides-index:hover .guides-index-item, .guides-index .guides-index-item:ho=
+ver { background-position: right -81px; text-decoration: underline !importa=
+nt; }
+
+@media screen and (min-width: 481px) {
+  .nav { float: right; margin-top: 1.5em; font-size: 1.2857em; }
+  .nav > li { display: inline; margin-left: 0.5em; }
+  .guides-index.guides-index-small { display: none; }
+}
+
+@media screen and (max-width: 480px) {
+  .nav { float: none; width: 100%; text-align: center; }
+  .nav .nav-item { display: block; margin: 0px; width: 100%; background-col=
+or: rgb(152, 9, 5); border-width: 0px 1px 1px; border-right-style: solid; b=
+order-bottom-style: solid; border-left-style: solid; border-right-color: rg=
+b(98, 12, 4); border-bottom-color: rgb(98, 12, 4); border-left-color: rgb(9=
+8, 12, 4); border-image: initial; border-top-style: initial; border-top-col=
+or: initial; padding: 15px 0px; text-align: center; }
+  .nav .nav-item, .nav-item.guides-index-item { text-transform: uppercase; =
+}
+  .nav .nav-item:first-child, .nav-item.guides-index-small { border-top: 1p=
+x solid rgb(98, 12, 4); }
+  .guides-index.guides-index-small { display: block; margin-top: 1.5em; }
+  .guides-index.guides-index-large { display: none; }
+  .guides-index-small .guides-index-item { font-style: inherit; font-varian=
+t: inherit; font-weight: inherit; font-stretch: inherit; line-height: inher=
+it; font-family: inherit; padding-left: 0.75em; font-size: 0.95em; backgrou=
+nd-position: 96% 16px; appearance: none; }
+  .guides-index-small .guides-index-item:hover { background-position: 96% -=
+65px; }
+}
+
+#guides { width: 37em; display: block; background: rgb(152, 9, 5); border-r=
+adius: 1em; color: rgb(241, 147, 140); padding: 2em 2em 1.5em; position: ab=
+solute; z-index: 10; top: -0.25em; right: 0px; }
+
+#guides.visible { display: block !important; }
+
+.guides-section dt, .guides-section dd { font-weight: normal; font-size: 0.=
+722em; margin: 0px; padding: 0px; }
+
+.guides-section dt { margin: 0.5em 0px 0px; padding: 0px; }
+
+#guides a { color: rgb(255, 255, 255); text-decoration: none; background: n=
+one !important; }
+
+#guides a:hover { text-decoration: underline; }
+
+.guides-section-container { display: flex; flex-flow: column wrap; width: 1=
+00%; max-height: 35em; }
+
+.guides-section { min-width: 5em; margin: 0px 2em 0.5em 0px; flex: 1 1 auto=
+; max-width: 12em; }
+
+.guides-section dd { line-height: 1.3; margin-bottom: 0.5em; }
+
+#guides hr { display: block; border: none; height: 1px; color: rgb(241, 147=
+, 140); background: rgb(241, 147, 140); }
+
+h1 { font-size: 2.5em; line-height: 1; margin: 0.6em 0px 0.2em; font-weight=
+: bold; }
+
+h2 { font-size: 2.1428em; line-height: 1; margin: 0.7em 0px 0.2333em; font-=
+weight: bold; }
+
+@media screen and (max-width: 480px) {
+  h2 { font-size: 1.45em; }
+}
+
+h3 { font-size: 1.7142em; line-height: 1.286; margin: 0.875em 0px 0.2916em;=
+ font-weight: bold; }
+
+@media screen and (max-width: 480px) {
+  h3 { font-size: 1.45em; }
+}
+
+h4 { font-size: 1.2857em; line-height: 1.2; margin: 1.6667em 0px 0.3887em; =
+font-weight: bold; }
+
+h5 { font-size: 1em; line-height: 1.5; margin: 1em 0px 0.5em; font-weight: =
+bold; }
+
+h6 { font-size: 1em; line-height: 1.5; margin: 1em 0px 0.5em; font-weight: =
+normal; }
+
+.section { padding-bottom: 0.25em; border-bottom: 1px solid rgb(153, 153, 1=
+53); }
+
+.pic { margin: 0px 2em 2em 0px; }
+
+#topNav strong { color: rgb(153, 153, 153); margin-right: 0.5em; }
+
+#topNav strong a { color: rgb(255, 255, 255); }
+
+#header h1 { float: left; background: url("../images/rails_guides_logo_1x.p=
+ng") no-repeat; width: 297px; text-indent: -9999em; margin: 0px; padding: 0=
+px; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), not all, not al=
+l, not all, only screen and (min-resolution: 192dpi), only screen and (min-=
+resolution: 2dppx) {
+  #header h1 { background: url("../images/rails_guides_logo_2x.png") 0% 0% =
+/ 160% no-repeat; }
+}
+
+@media screen and (max-width: 480px) {
+  #header h1 { float: none; }
+}
+
+#header h1 a { text-decoration: none; display: block; height: 77px; }
+
+#feature p { font-size: 1.2857em; margin-bottom: 0.75em; }
+
+@media screen and (max-width: 480px) {
+  #feature p { font-size: 1em; }
+}
+
+#feature ul { margin-left: 0px; }
+
+#feature ul li { list-style: none; background: url("../images/check_bullet.=
+gif") left 0.5em no-repeat; padding: 0.5em 1.75em; font-size: 1.1428em; fon=
+t-weight: bold; }
+
+#mainCol dd, #subCol dd { padding: 0.25em 0px 1em; border-bottom: 1px solid=
+ rgb(204, 204, 204); margin-bottom: 1em; margin-left: 0px; }
+
+#mainCol dt, #subCol dt { font-size: 1.2857em; padding: 0.125em 0px 0.25em;=
+ margin-bottom: 0px; }
+
+@media screen and (max-width: 480px) {
+  #mainCol dt, #subCol dt { font-size: 1em; }
+}
+
+#mainCol dd.work-in-progress, #subCol dd.work-in-progress { background: url=
+("../images/tab_yellow.gif") left top no-repeat rgb(255, 249, 216); border:=
+ none; padding: 1.25em 1em 1.25em 48px; margin-left: 0px; margin-top: 0.25e=
+m; }
+
+#mainCol dd.kindle, #subCol dd.kindle { background: url("../images/tab_info=
+.gif") left top no-repeat rgb(213, 233, 246); border: none; padding: 1.25em=
+ 1em 1.25em 48px; margin-left: 0px; margin-top: 0.25em; }
+
+#mainCol div.warning, #subCol dd.warning { background: url("../images/tab_r=
+ed.gif") left top no-repeat rgb(249, 217, 216); border: none; padding: 1.25=
+em 1.25em 0.25em 48px; margin-left: 0px; margin-top: 0.25em; }
+
+#subCol .chapters { color: rgb(152, 9, 5); }
+
+#subCol .chapters a { font-weight: bold; }
+
+#subCol .chapters ul a { font-weight: normal; }
+
+#subCol .chapters li { margin-bottom: 0.75em; }
+
+#subCol h3.chapter { margin-top: 0.25em; }
+
+#subCol h3.chapter img { vertical-align: text-bottom; }
+
+#subCol .chapters ul { margin-left: 0px; margin-top: 0.5em; }
+
+#subCol .chapters ul li { list-style: none; padding: 0px 0px 0px 1em; backg=
+round: url("../images/bullet.gif") left 0.45em no-repeat; margin-left: 0px;=
+ font-size: 1em; font-weight: normal; }
+
+#subCol li ul, li ol { margin: 0px 1.5em; }
+
+div.code_container { background: url("../images/tab_grey.gif") left top no-=
+repeat rgb(238, 238, 238); padding: 0.25em 1em 0.5em 48px; position: relati=
+ve; }
+
+.note { background: url("../images/tab_note.gif") left top no-repeat rgb(25=
+5, 249, 216); border: none; padding: 1em 1em 0.25em 48px; margin: 0.25em 0p=
+x 1.5em; }
+
+.info { background: url("../images/tab_info.gif") left top no-repeat rgb(21=
+3, 233, 246); border: none; padding: 1em 1em 0.25em 48px; margin: 0.25em 0p=
+x 1.5em; }
+
+#mainCol div.todo { background: url("../images/tab_yellow.gif") left top no=
+-repeat rgb(255, 249, 216); border: none; padding: 1em 1em 0.25em 48px; mar=
+gin: 0.25em 0px 1.5em; }
+
+.note code, .info code, .todo code { background: rgb(255, 255, 255); }
+
+#mainCol ul li { list-style: none; background: url("../images/grey_bullet.g=
+if") left 0.5em no-repeat; padding-left: 1em; margin-left: 0px; }
+
+#subCol .content { font-size: 0.7857em; line-height: 1.5; }
+
+#subCol .content li { font-weight: normal; background: none; padding: 0px 0=
+px 1em; font-size: 1.1667em; }
+
+.clearfix::after { content: "."; display: block; height: 0px; clear: both; =
+visibility: hidden; }
+
+* html .clearfix { height: 1%; }
+
+.clearfix { display: block; }
+
+div.code_container, div.important, div.caution, div.warning, div.note, div.=
+info { margin-bottom: 1.5em; }
+
+div.important p, div.caution p, div.warning p, div.note p, div.info p { mar=
+gin-bottom: 1em; }
+
+code.highlight.console span.w, code.highlight.irb span.w { display: table-c=
+ell; }
+
+#version-badge { position: fixed; right: 0px; top: 0px; z-index: 100; color=
+: white; font-size: 30px; transform: rotate(45deg) translate(27.5%, -40%); =
+min-width: 200px; font-weight: bold; font-style: italic; box-shadow: rgba(1=
+8, 9, 9, 0.43) 0px 2px 2px 1px; text-shadow: rgba(84, 0, 0, 0.49) 2px 2px 4=
+px; background: radial-gradient(circle, rgb(255, 10, 0) 0%, rgb(200, 0, 0) =
+90%); }
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://guides.rubyonrails.org/images/header_tile.gif
+
+R0lGODdhAgACAPAAAMUvJJgJBSwAAAAAAgACAAACAwQSBQA7
+
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://guides.rubyonrails.org/images/feature_tile.gif
+
+R0lGODdhAQACAPAAANXp9rLV7SwAAAAAAQACAAACAkQKADs=
+
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://guides.rubyonrails.org/images/footer_tile.gif
+
+R0lGODdhAgACAPAAAAAAACIiIiwAAAAAAgACAAACA0wABQA7
+
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://guides.rubyonrails.org/images/nav_arrow.gif
+
+R0lGODdhDgBkAPU2AP///606N8FrabxAO+yLhJwSDvnx8JsOCtpvaeS/vq9APawoI/v29u6Oh6sm
+Ip4TD58aF649Ou2Nhq0pJf35+eqIgctZU8uDgchUTtCOjPrz87hUUaYeGvfr6r5DPrNJRrVOTLtd
+WrMzLrBDQNadm6gvK68tKO+QibEwK8FIQ8d6eKQbFqghHdOXlcRNSKUpJao0McRxb81cVrY4M/GT
+jJgJBaolIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAADgBkAEAGyMCacHjgDI/IpDJF
+oxEcyqh0Sq1ar9hsDRLoer9d2PECKAMMCuQB0WzTGqahzE13LrT4vH6vLyTMABojQy8ChoeIhiFH
+a00Ed0RsdW0nIloYdY9SD3ydnp+goaKjWn4dAUl+gIAMIFotq2ZoSjEGEVNrFTZRjW0SE4ySdQ0o
+NQ82yMnKyCxXKwPQ0dLQM0IWk3ZILm6aUR5PpOHi4+Tl5ufo6erreQUlU6pnaUjxrB9C9bEAFBuj
+JPqy5tXIEGtWEhVlbFGBkCQIADs=
+
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://guides.rubyonrails.org/images/rails_guides_logo_2x.png
+
+iVBORw0KGgoAAAANSUhEUgAAA9gAAACaCAMAAABljBC5AAAAvVBMVEXFLyTmfXbxk4zaZV3gcmrr
+iIHujofda2Tpg3zjeHD//////v7+/Pz78O/LQTf89PP01tPTWlHGMSf12df55uX9+Pf66+rIOC7H
+NSr34+LJPDLrtbHvxMHknJbZdm/oq6baeXL3397psKzsurbVaGDXcGnloJvhk43gj4n13NrxzMnU
+Y1vjl5LcgnveioTmpKDwyMXXXlbQVEvy0c7wy8jbfXbtv7vQV07LRTvMSD7OSUDehX/NTEPhlI7R
+UEhx8VsjAAALIUlEQVR4Xuzdx3IbORgE4D43MDEw56ycs73v/1hbHLIkipJdBg1Ks9z+jrh39V+F
+BCciIiIiIiIiIiIiIiIiIiIiIiIiIiIiIq325VEQkVMcDhEZsjTC4RCRLktBioMhItdcmeBwiMjl
+Tac9uriY4peS82ccGBG5I7PFEw6JiJxz6XKKChGRVvcEv3JyOurEzTyvBfkwO27PJw1sO+UKKkNE
+GouIef2z9bgw/MjYIO4+4s0FSxGqQkR6OUle4L1pZvlbJjoeYGXSsSSZoyJEpM+SucKbQdPwj0Sd
+BEvheUxmqAgR+ceyNGxgpdWxdGCHPSwl/XtUhYjMWWpeY2lSozMznKBSRCTNSAbnZWH3Au7GdkJU
+iIg8WNNvAcAg4l+oDVAdInKWAEAS8C/ZUYoKEZFwSA/McQtVISJ9Q0/iEFUgIlcRPcoqEG0ROaZn
+N3V8KxFJCnpnxvhGIjLiXtg5vomIhAH3JUjwHURkarhHcYr/HBGN4cZYa43hr9gXfC0RSZvcVZEf
+dxO8apycdpqF4Ud5iC8kImHBnQSdKT733G9abjEX+DIikli6M/k8xQfh49tiOKoZvlML8TVE5M7Q
+WTRL8ZlTMojb8ynW5jk3mTn2QkS2Ijmjs+E1Skkdpd89Zpj2I25oNuCfiITxHTb0d7229TBrsoct
+bZZybLo+Mnxlp/BNRB6bZBevxnRjOmXl1s9ikhxjS4elDO+lbctXbfgnolyT7cZrEN0M6ygtWCrq
+eG8xvj2KyFt8MCu4xlodHolI2GRpPU7f0kkxxdoPrvTwiceTCT7x03LNTuCNiIRHXItT976+xJuY
+S+YnXMws12bwRUTG7zpzTBd2ig0Lktl5CEf3hisxPBGR8GZjhO7TRVDHph/snGAHrSOuBC34ISKN
+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
+
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://guides.rubyonrails.org/images/tab_yellow.gif
+
+R0lGODdhJACADPU/AP/52PvLhv7kwc/IrfnvvPfoovrxxJVrB9SXC/erMcG6ov7x4PfLaOvr6/Pz
+88PCwvbmmsrKyvjssfv009PT0+/pyrOvl+Tk5Pfnndzc3PCsDfn5+cK+taSCNP39/fi6TPntttW4
+dPfppvbllreVRfmZF/z33f768N/avfTuz/bllfmRBvbml39aBYNeBvuuQ7F+CZ6ahvfon/bdi/3c
+rv331vmgI/7q0Pq7W/79+fu6Y+fixMelV6aijP////jrrCwAAAAAJACADAAG/0CfcEgsGgHIpHJp
+bDqXUKVzSoxaVdgRiwWBYDAyWaEgKv/OP4kaxCa4DfA4VqXler9iclmEVkvYIG5vcQZzI1pdd2Fj
+e2hpa22ChHN0W11fYIyNfZCBknCUh3aKeZtnfoCCg5SVdpilpo9/kZKsool4EgYTvBMGEpyznoKs
+rV0FEydOJiCywqrFtwQ5VEImzqluxZUE1UQnfsKe2yPd3t/YbdszTQsC7wJN1+GAxQw3TQEr+ytO
+zfQgWM3A4UQfv2WnULH6QKMgv35OgDljVUJZPn4lphhwpIZSgARTBPB7MWWCozSUPpB0coOfjpJ8
+HKVc6YRfAJgxz8ykYmNfQ/8nE0ylzDjlxb54TgzsMZNyxYIpNALcnCJBzx5KDFZMNbJAaoCfRk7k
+sUppxgobTkTuo1lkwiJNrIxuJaJ2BdshOQqAeVtA4IoST4vUvSuEAKa9Y4p9WJHA4jkfBC69CrOt
+Z4LA3giMOgxmXc8Sc5sImLFl1J0v27AsPhsAs5ATNHAwoFPHNOrUKmYY3Vfihe8EJT7MMFQ7URfc
+c2Yw+MD8A44AqUVZOo68OjnpXKxrjyZ9u/dQh76LzzKgQ4vz6NOrTx+jvfv2PSwoQLEjxYQNDsq7
+2M+/v//9FgQoYIAKKDAAChWkUAN+F1CgQAcHRCjhhBQOYOGFF6JAn30LOtD/YAQPKEAChSRGqOGJ
+J+6wQ4IceuAhBSA+ECIJMNRo440wVKDjjjumYN8ENdTgYgMZxCjjAxzwgMCSTDLZy5O9BBkkAB5s
+0MCHRsrIQQhNMmlFFFU6QCQFMEZg5pFbaqCmml9C4UGYV2aQAZllGhlCAmy2KcWb+DXg5wVy0mnm
+mXfqKYUPfOIn5p+AzknmoIYmQcSbVSq66AWN0hkpEk1QuoGljMq5KQBUeAqqn6OeY6oDrKb6GKKJ
+uvqqEG/KOqsQtt6a66y7vtrrY7+eE6w3w1ZTLBXHTpHsE5veWkWzzuIKbbTLNlHtEdM6e20R2z4b
+abTSfgtut0OQG66h4Ppg/6662eraLq/v+hovsPMKWy+x9xqbL7L7Ktsvs+JS+6+1A2MbsLYFc5uw
+t+iOu3C5D5+rZ7rrVhwxuwe7mzG8G8vbMb0f2xsyviPrWzK/J/ubMsANC7wywS8b3DLCMStcM8MT
+O3wzxDtL3CbFF1vcM8Yza1w0x0d7nDTIS4vcNMlPmxw1ylOrXDXLObt8Ncxby5w1zV3bHDbOP+s8
+Ns9n+/wl0EMLnTbRXxsdN9JzK10303c7nTfUe0vdN9V/Wx041mVrPTjXh3tdONiJi9042Wub/Tja
+k6ttBdtvu1053IvL3Tndn9sdOt6j610636f7nTrgqwveOuGRG/464rMrHv8747U7njvkl0u+O+W/
+Wx4F5ptrHjznt3uePOjLi9486c+bHj3q06tePevXu5497L3Lvj3t39vePe7h614+78P7fj7w6wsP
+BfHHG98+8uMrXz/z9zufP/T7S98/9f+zXgCxN0DtFZB76fPeAcG3QPElkHwNNF8E0fc+9U2QfRd0
+HxMs+ED7dRB/H9RfCPk3Qv+VEIAnFGAKCbhCA7YQgRVU4AsZOEMHxhCCNZRgDim4QRne0IM/BGEQ
+RThEEhbRhEdEYRJVuEQWNtGFT4RhD3EYRRpW0YZTBGIWhbhFInbRiF9EYhiVOEYmltGJZ4RiGqV4
+KB+u0YpvxGIbqRhHHV7/0Y515OEctbhHLvbRi38EYyDFOEgyFtKMh0RjItW4SDZKioN31OMj3dhI
+OFZSjpOk4yXxuElJcgqSecTgDkUZSVKGUoOdNGUqUZlJPrbSj68EZCwFOUtC1tKQt0RkLhW5S0b2
+0pGfpOQvLTlMTAZTk8XkZDI9SSpQrpJ+o2TlMV05TVhWU5bXpGU2bblNXHZTl9/kZTh9OU5gNlOY
+5SRmOo15TmSuU5nvZCb85ie/DEKzlNJsJzX1aU1+YtOf2gQoNwXqTYKC06DiRCg5FWrOedqzntG8
+5ykl+kyI4pOiy1RlRvPp0IhadKIfrWjQRto2kmbOpMVDafxUSk+WPtSl/x6F6UVDulGMxlOjN+Wo
+M2tK05zalKHqBCo7OzpTmYLUqCItqVJPutSUNnWlT21pVF861ZhWtahXPWpWk8rUrjrVq1AFq1TF
+SlWyWtWsWEWrVtXK1a+6NaxvHWtcyzrXs9Y1rXdda17bCte+ytWvdAWsXQWLV8Lq1bB8/atiA7vY
+wTa2sI89bGQTy9jKOtaykMWsZDVL2ct6NrOf3WxoOwva0orWtKQ9rWpTy1qeItW1W4UtW2W7V9oi
+1raTxS1ndTta3qLWt6sFbmt92lOhwtO48twpcV+73Ng2d7bPrW10bzvd3FZ3t9ftbXZ/u93gdne4
+yMVpeHWKzvH+lKjeNf9vcdELXvYK973fha96mTtf59YXuveVbn6pu1/r9he7/9VugLk74PS6N74I
+LnB7latg+R64wQl+sIQZPOHyVtidEM7whfe54X52+J8fDmiIBzrigpb4oCdOaIoXuuKGUvjFFoYx
+hlscVBoPVcYcxrGHdQxiHovYxyQGsomFjGIiq9jILEayi2PM5BkrucZPvnGTczzlHVe5x1f+cZaD
+vOUhd7nIXz5ymJM85iU7ucxQRrOUz8xmKrfZym/Gcpy1PGcu19nLdwZznsW8ZzL32cxuDjScBS1n
+QtPZ0HZGNJ4VrWdG89nRfoY0oAdN6UJX+tCXTnSmF73pRnf60Z+OdKj/J23pUmPa1JpGNadV7WlW
+g9rVooY1qU9N61TXetW3bnWuX73rWPd61rYONq6FrWti89rYvkY2sIfN7GI3+9jPTna0l+3sakPb
+2tLGNrWvze1sd3vb3g43uMed5j+XW9LnHnW6Zb3uX7db2e+edry1Pe9v11vc9yb3mtG9b3X3m93/
+dnfA4T1weRec3ge3d8LxvXB9H9fGD49yxNU8cXM3PN8Yv7jGK85vjvvb4wAHucBFTnCSG9zkCEe5
+wlXOcJY7PLkUh7nFXZ5xmm9c5h3H+cd1HnKej9znJQf6yYWecqKv3OgtR/rLxQtxpdfc6TdnusSh
+bvOqU/3qUo951meO/3Xycn3rOQf7zsXec7L/3OxBR/vQ1V50th/d7UmH+9K9Hna6j93uZcf72fWe
+dr6v3e9tB/zbBR93ws/9vFOX+9MVH3XDL97xjUe81iFvdcZXnvJdl/zXMW/5zK838ZwPvebrPvq7
+lz7vp9976vu++r+3PvCvH3zsCz/7w39+8rV/fO4jf/vN7/7yv/c8fZve+eKLvvekR77plY965qve
++ayHvuulD3vqy976tMe+7YcP+uAb3/vH5z7uta978vNe/L43P/DVL3z7Ej/87u8++78/f/jj9/3g
+z3/99Y/+5Pd/+f/XfAH4fAMYfQU4fQdYfQl4fQuYfQ24ffE3fg9Yfv8TeH4RmH4VuH4Z2H73J38b
+SH8faH/6hX/7V4IhyH8X6H8pCIArKIAtSIAvaIAxiIAzqIA1yIA36IA5CIEdKIE7SIE/aIE9iIFB
+qIFFyIEj6IFHCIJLKIL8RYInaIJNiIJDqIJVyIJX6IJZCINbKINdSINfaINhiINjqINlyINJ6INn
+CIRrKIRpSIRtaIRxiIRPqIRzyIR36IT+BYVTKIV5SIVvaIWBiIWDqIWFyIWH6IWJCIaLKIaNSIaP
+aIaRiIZ1qIaTyIaX6IaVCIeZKIedSId7aIefiIejqIcAxod/6IelCIibKIitSIivaIixiIizqIi1
+yIi36Ii5CIm7KIn/vUiJoWiJv4iJw6iJwciJxeiJyQiKpyiKy0iKz2iKAoaKq6iK0ciKx+iK2QiL
+2yiL3UiL32iL4YiL46iL5ciL5+iL6QiMzSiM60iM72iM7YiM8aiM9ciM0+iM9wiN+yiNBEaN12iN
+/YiN86iNBcmNB+mNCQmOCymODUmOD2mOEYmOE6mOFcmO+eiOFwmPGymPGUmPHWmPIYmP/6iPI8mP
+J+mPBmaSH2mQLYmQL6mQMcmQM+mQNQmRNymROUmRO2mRPYmRJamRP8mRQ+mRQQmSRSmSSUmSKymU
+R+mSTwmTUSmTU0mTVWmTV4mTWamTW8mTXemTXwmUTYmUYUmUZWmU/2MJlWkplWtJlW1plW+JlXGp
+lXPJlXXplXcJlnkplgvmlHtpln+Jln1JloGplGdpmIXJlIOplovJlo3plo8Jl5Epl5NJl5Vpl5eJ
+l5mpl5vJlw7GkoepmJ/pl50JmKUpmKNJmKeJmKspmhEGmomJkkspm6FJm7Gpkq1pm7mJm6nJmL3p
+mL8JmcEpmcNJmcVpmceJmcmpmcvJmc3pma9Jms9pmtOJmtGpmtXJmtnpmhoGm7tJkLPJm9fpm+MJ
+nOUpnOdJnOlpnOuJnO2pnO/JnPHpnPMJnd0pnfVJnflpnfeJnfupnf/JnQA5kAKZkuBZm+LZn+Sp
+oObJoOjpoOoJof/sKaHuSaHwaaHyiaH0qaH2OaAGWqDheaC3KaLfCaIISqLbqZspmqAeGqImOqIv
+WqJROKN9SKOpaKPViKMBqaMEyqMf6qMuCqQnGqMriqIBqqJHyqLeWaREmqRGyqH6CaX82aJDKqQw
+aqUyWqNaeqNbmqNduqNf2qNh+qNjGqRlWqVneqVpmqVc2qZe6qZgCqdiKqdkSqdmaqdoiqdqqqds
++qZ+Gqd/OqeBWqeDeqeFmqeHuqeJ2qeA2qiC6qiECqmGKqmISqmKaqmM+qiaGqmbOqmdWqmfeqmh
+mqmcWqqeaqqgiqqiqqqkeqqumqqvuqqx2qqwWquyaqu0equ6mqv/vMqkWOqrawqsfCqsi0qsmGqs
+o4qsrKqss8qsuOqsuwqtveqkTSqlAGqtArqk1Pqr2xqs3Tqs31qs4Xqs45qs5bqs59qs6fqs6xqt
+7Tqt2Iqk8aqk+DmvT0ql7mqv1Yqv8Mqv0vqv7wqw+sqtA+utBQuuByuuCUuuC2uuDYuuD6uuEcuu
+E5uv/hqwGFux/aqtGiuwF9uxGfuxIsuxI1uvJeufIJuyJ7ugK9ugLfugLxuhMTuhM1uhNXuhN5uh
+ObuhO9uhJPuzJgu0KNuzUUq0Uyq0LIu0Lqu0MMu0Muu0NAu1Niu1OEu1Omu1PIu1Phu0XDu0Wlu0
+X3u0XZu0Y7u0/2XbtGf7tGkbtWs7tW1btW97tXGbtXO7tV5bt2CLt2J7t3xLtn1rtn+LtoGrtoPL
+toXrtocLt4krt4tLt41rt34buYAruYJLuYRruYaLuYiruYrLuYzruY4LupA7uaRbuaV7uaebuam7
+uavbua37ua8burE7uqZbu6hru6qLu6yru67Lu7Dru7ILvLR7u8Sbu8W7u8fbu8n7u8sbvM07vMYb
+vcgrvcpLvcxrvc6LvdA7vdxbvd17vd+bveG7vd5bvuBrvuKLvuR7vuybvu27vu4bv/A7v3n7uPUr
+uvc7u/krvPv7vP2rvf87vgGsvgP8vgUsvwdMv3uLvwusvw3Mv8wP7L8RDMATLMAVTMAXbMAZjMAb
+rMDXarQfHLYhrLcjbL8dnMAofMIqXMIMzMIO7MIQDMMSLMMUTMMWbMMYjMMarMMczMMenK0kDMQm
+7MMpTMQrLMQtjMQvrMQxzMQz7MQ1DMU3LMU5TMU7bMU9jMU/LK8grMVF7MVHzMUiDMZGXMZkfMZi
+HMRpPMRoTK9svMZJDMdLLMdNTMdPbMdRjMdTrMdVzMdX7MdZDMhb7MZxTMhzbMh1jMh3rMh5zMh7
+7Mh9DMl/LMmBTMnmFAQAOw==
+
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://guides.rubyonrails.org/images/tab_info.gif
+
+R0lGODdhJACADPU/ANXp9miTtXvE6Vq14yNKabnL2Ovr68PDw/Pz89Ll8srKyorL69PT07Hc8jFm
+kZSkrk15nePj4xw7VNzc3Pn5+ZnR7v39/VCx4jZxoW2+5nXC6Ky8xoityru8vmG55IXJ6szd6XG+
+5mW75Wm85kyv4UKbzZHO7D6EtKezu4ORmkWn2YibqXLA54DG6kdjeVSz4sHT4PX7/Ve046Crs83h
+7b/j9Eet4Ju40CxagF635Mfa5+bt89nk7ePy+v///0mu4CwAAAAAJACADAAG/0CfcEgsGgHIpHJp
+bDqXUKVzSoxabdgfiXS5vF6yQS7nEYlGmQxLoxG0Wp/FwkSv2CtYm3bbBQ/EZWdpa21uH3FzJnd4
+WXt9fmOBaGpsbnCIdXZ5eltcX2GAZpMhawKWh3KZmz+OXpBkooOVp6l1m5x8n39kkrKFl7Umt6x8
+rmGRsRmkv8CJt7hcXjLHHr2UzKhzz8TRXxkVDeENFYLXpm/Zz9AXIzVNMQ2ThOfA6twmMVQ9H8rz
+px/qOJmgMiQGv2XMWgS0EcIIDxAgdhTpkQahKTcBS0gsEgADhhtGGlT0JyAghyYdPxqJMelaG3Ul
+YKD0CNJIhZYsCKk7sbEIB/+PBZo0ODNqjToMTm54BCFUFM6jST3yEBqoXAaoTUB4dNKgmhmiV59h
+YGpkx42aNnlVHXH0pBEOAQIENZJBDK+vOyHMVFmkBqhIXmHyJZISrRCWYI4BDngCw1QiBc6SHWLi
+S+JdYwKqwADhMRUTXVxdFrNw8+CyIYqJnvZnoQ0VjU9wmLwDBocSe1RbnuYaS4nGHj2eKNGoU7RH
+L3orL94p9Jfly7k17wIdunQ+1a1fz16d1R7u2b2D5/5jgwsJ6NOrX68+hfv37lc8QFEABogEFBCY
+Z89f/YP/AP43AwobFKADDfghEAEDM5zXH3sbRCihhAXUd1+CCypwQIMEdOj/4YceViiiiDDAoAMI
+CAJgAQIGMKBhBx2gAAEOIIKow4043ggRggkkoCKLE2h4wJAxBoDDkUgi2eOSTC6ZhAUUGJChkEMe
+0EEKDmSppQNWRAElkAy4qMCYVXawAgZbdgmFBV9KOcEEYYpJ5QoQeKQmE2zmZ8CeEbwZ55hkPgDB
+nVL4kGd+LPLZJ5xhAkpoEkSwCSWiiUawaJyPItGEpBRQuqebE2QKABWcerqnqAQJUSoCrKKa6hCl
+uvpqpBbIOmsVmd56RK664vpor74SCuwQtvZarK7H3prsrMu+2myqzxIULRXTTlHtE7wOe20T2+76
+67A+dFuEuMHeCW642QJL/y6x6RrbLrLvKhsvs/M6Wy+090qbL7X7Wtsvtt9q+y+3A3srLLjrCpEw
+ugGrW/C4D5er5rkLVxwxuw27mzG8G8vbMb0f2xsyviPrWzK/J/ubMsAHC7wywS8bbC7CFytcM8Mt
+OxwzxDtL3CXFN1vcM8Y5a1w0x0d7nDTIS4vcNMlPmxw1ylOrXDXLM7t8NcxbyzwxzUPbHDbOWevc
+Nc9n+2wF0GMLnTbRZRsdN9JzK10303c7nTfUe0vdN9V/Wx041l9rPTjXh3v9M9hvi9042YWbnTja
+k6sdBduPu1053JHL3Tndn9sdOt6j610636f7nTrgqwveOuGLG/464rMrvv8245s7njvksUteO+W/
+Ww4F5rtrHjznvXuePOjLi9486c+bHj3q06tePevXu5497LfLvj3t39t+Oe7H614+7937Hj7w6wvP
+BPntI5++8vMzX7/z90Ofv/T7U9+/9f/DXgC1N0Dujc97BQRfAsU3PPgtkH0PdF+hEHhA9UVQfhWk
+Xwbtt0H8dVB/H+RfCP03QgCWUIAnJGAKDdhACrbQgitUYAwZ+D4X1hCGL9RgDjm4Qw/2EIQ/FGEQ
+SThEExYRhUdUYRJZeEMdNpGHT/RhFIE4RSFWkYhXNGIWkbhFJXaRiRPE4RdluEQyjpGGYXRiGqG4
+Rim2kYpvtGIcsThHLdb/kYt39GIewQgpB84Qgn+UYB9tuEczFhKNgxTjIQFZRkRqyo+NZOQZJblI
+QT6SkIlUYybZuEk3dhKOn5RjKOk4SjuWEo+n1GMq+XhJRa7SkK905KggOUlLzhKTrdRkLjm5S0/2
+EpS/FGUwSTlMUxYTlcdUZTJZeUtXLhOWz5Ql8c5nvPiZz5roCyQGI2nLaWKzmhe8Zjizyc1t1tKc
+lURnLCm5zm7SMp3i1GY8yznPc9YTnuS0Zz7xCU557rOd6owmOwXqTlw2U5cH5WVCfblQYDZUmA8l
+ZkSNOVFkVlSZF2WmN8fZT3r+k6ABzSg0RSrNdwL0nif9KEkHutKCOrOl/yHdqD87qk+a8jNoOG1b
+TjO30+L1lJo//WZQOTrUmRbVozZNaVJBilKmqlSmSD1qTaV6U51aladX9WlWgbpVoXaVqF81alij
+OtaplrWqWE2rVtXKVbZ61a1ghatY5UpWuprVrmhdq17bute39jWuf51rYOs62LsWNq98TaxfFQtY
+xgrWsYSFrGEli9jFWraxl31sZiO72cl2trKYDa1mRctZ0nrWtKAdrWpLu9rTtja1rI2ta2UL29na
+tra4VSpVdXtW3uLVt4cFLmWF+1niota4r0UubZV7W+bm1qlLhWlTpftUk0J3t9ftbXZ/u93gdne4
+3y1ueI873uSWd7nnbf9uep9L3ehCVb3txW58tTtf7tbXu/cFb37Fu1/y9te8/0VvgOH7XvYW2LkI
+Xm+CB2xg6zJ4wQdWsIQfPOEIU/jCFs6wgzVsUA6/1MMIBbFCRcxQEjvUxBBFsURVTFEWW9TFGIWx
+RjdM4w7X+MM3DnGOR7zjEvf4xD9OcZBXPOQWF/nFR45xkmds4ybj2Mk6hjKPpexjKgPZykLGMpG1
+bGQuI9nLSgYzk59M5iiXecpnrnKar7zmLLd5y2/ucpy/POcw13nMZs4zmvWsZj6z2c9uBjScBS1n
+QtPZ0HZGNJ73zOg+N/rPjw50pAc96UJX+tCXTnSmF+3oTkPa05IGNaX/RW1pUmPa1JpGNac/zepQ
+t3rUry51rE8961TXetWuzjWsdS1rXtPa17YGNq53TexeF/vXxw52sodt7GYj29nKhjazn03taFd7
+2tbONra3PVIZd3vJ3xZzuO88bkWXe9PnVnW6b71uYbd72e+WdryvPW9t15vbJRV3vsm9b3P3G93/
+VnfA2T1wdxcc3geXd8LpvXB7NxzfLPX2w+9N8YlbPOLgvrhL/Y1xfXec3x/n+MYBHnKSj1zgJUf5
+yQmecpav3OAth/nLER5zms9c4TXH+c0ZnnOe79zhPQf6zyE+9IoHnegxzfjRjV50jSfd401futOn
+K3GpWz3qWH86yLNO/3Wlc726UNe6yMVucrKr3OwuR7vM1W5ztuvc7T6Hu9DljvSuh93uW6c70/U+
+dbDnHe9jB3zZBX92wqfd8GtHfNsV/3bGx93xc4d83f0eeMoP3vKFx/zhNZ94zi/e840H/eNFH3nS
+T969Xuf71VX/ddTf3fR7l3zsYd931/+d9quXfe3lW/XW8z71us897n1P396z/vjBJ759jZ985A/f
++bavfPQvP/3MV3/z1+989j+//dB3f/TfL334T//7149/9uffffGB//zmu7/98E+/8OWvfPwyP/7l
+vz39oZ9/6fef+v9nfQGIfQOofQXIfQfofQkIfgsofg1Ifutnfg+Ifv8TqH7Lx377934ZiH8RqH8V
+OH8fWH/6dX8bWIIhyH8d6H8pCIArKIAtSIAvaIAxiIAzqIA1yIA36IA5CIEXKIE7SIE/aIH2h4En
+qIFFyIE96IFBCIJLKIL8RYJHaIJNiIJJqIJVyIJX6IJZCINbKINdSINfaINhiINjqINlyIND6INn
+CIRrKIQjSIRTaIRxiIRpqIRtyIR36IT+BYVzKIV5SIV1aIWBiIWDqIWFyIWH6IWJCIaLKIaNSIaP
+aIaRiIZvqIaTyIaX6IZPCId/KIedSIeVaIeZiIejqIcAxoef6IelCIihKIitSIivaIixiIizqIi1
+yIi36Ii5CIm7KIn/vUiJm2iJv4iJw6iJe8iJq+iJyQiKwSiKxUiKz2iKAoaKy6iK0ciKzeiK2QiL
+2yiL3UiL32iL4YiL46iL5ciL5+iL6QiMxyiM60iM72iMp4iM16iM9ciM7eiM8QiN+yiNBEaP/YiN
++aiNA8mNBemNBwmOCSmOC0mODWmOD4mOEamOE8mO8+iOFQmPGSmP0wiQG8mPH+mPDYaRF6mPISmQ
+JUmQKWmQK4mQLamQL8mQMemQMwmRNSmRN0mROWmRHUmSPWmSO6mRQcmR/+iTRQmUP6mSScmSS+mS
+TQmTTymTUUmTU2mTVYmTV6mTWcmTR6mUXcmUX+mUYQmVYymVZUmV/2dplWmJlWuplW3JlSOJlG8p
+lFtJl3NJlHHplXkJlnspln1Jln9ploGJloOploXJlofplokJlxDmkUMJko8pko1plItpl5WJl5Mp
+l5cJmXWJmRXmmJ3JmXcpmpspmZ9JmZmpl6nJl6vpl60JmK8pmLFJmLNpmLWJmLepmLnJmKepmbtp
+mb/pmRgGmqNpmsOJmr2pmsnJmsvpms0Jm88pm9FJm9Npm9WJm9epm9nJm8fpm9sJnN8pnNR4j9YY
+kPZonvgYmSgZmsY5nuhZnid5nvGZnuy5nsVpn6WJn8FJmvvZnsSZn/KpngFanwN6nwUKoPRpoAmK
+oPApoAvan/oZnv/8KaH+iZzdqZwXypwZ6pwbCp0dKp0fSp0hap0jip0lqp0nyp3uOZ8NSqAPSqER
+mqLgKaPi+Z8QeqA3+qI0OqE7WqHe2aMxuqIO2qIKSqQMGoVI2odJmopLWo1NSp5P+p5RyqJTOqRV
+6qJGmqNZCqM4yqU6KqRYeqVFKqZHqqRmyqRn6qRpCqVrKqVtSqVvaqVxGqZzOqZ1WqZomqdqqqds
+yqdu6qdwCqhyKqh0Sqh2aqh4uqeK2qeL+qeNGqiPOqiRWqiTeqiVmqiMmqmOqqmQyqmS6qmUCqqW
+KqqYuqmm2qmn+qmpGqqrOqqtWqqoGquqKqusSquuaquwOqu6Wqv/u3qrvZqrvBqsviqswDqsxlqs
+yKqlZKqsd8qsiOqslwqtpCqtr0qtuGqtv4qtxKqtx8qtyeqlWwqkXSquX2qj4Lqs59qs6fqs6xqt
+7Tqt71qt8Xqt85qt9bqt99qt+fqt5BquYKqv/YquAauuA8uuBeuuBwuvCSuvC0uvDWuvD4uvEQuw
+/8qvFeutGLuvGTuxFmuuHLuxF6uxIvuxIxuyJHuyJpuyHquyFsqyP+qyGAqzGiqzHEqzHmqzIIqz
+IqqzJMqzJuqzKAq0KrqyRNuyRfuyRxuzSTuzS1uzTXuzT5uzUbuzU9uzVfuzVxu0WTu0Rtu1SOu1
+Sgu2TCu2Tku2/1BrtlKLtlSrtlbLtljrtloLt1z7tXQbtnU7tndbtnl7tnubtn27tn/btoH7toMb
+t4U7t3abuHiruHrLuHzruH4LuYAruYJLuYRruYaLuYi7uJzbuJ37uJ8buaE7uaNbuaV7uaebuam7
+uZ7buqDruqILu6Qru6ZLu6hru6qLu6z7urwbu707u79bu8F7u8Obu8W7u76bvMCrvMLLvMTrvMYL
+vci7vNTbvNX7vNcbvdk7vdbbvdjrvdoLvtz7veQbvuU7vuabvui7vjMqtO27te8rt/F7uPOrufW7
+uveru/l7vPsrvf27vf8rvgF8vgOsvgXMvjUqvwlMvwtsvw2Mv88PrL8RzL8T7L8VDMAXLMAZTMAb
+bMAdjMA86r4ffMAkPMImHMLwe8I+6sAorMAtzMAvzMIrDMExTMMzLME1jMM3TME5zMM7bME9DMQ/
+jMFBTMRDrMFFjMRHzMFJzMRL7MFNDMVPDMJTXMJRTMVBmsJXbMVVrMJZ7MJdvMVePK4iLMZmHMZo
+/MUwnMZkrMVsXK5grMYyLMc2TMc6bMc+jMdCrMdGzMdK7MdODMhSLMhY3MZxbMhrTMhcrMhjDMeJ
+jMhzDMl1LMl3TMl5bMkQFQQAOw==
+
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://guides.rubyonrails.org/stylesheets/turbolinks.css
+
+@charset "utf-8";
+
+.turbolinks-progress-bar { background-color: rgb(197, 47, 36); }
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://guides.rubyonrails.org/stylesheets/print.css
+
+@charset "utf-8";
+
+body, .wrapper, .note, .info, code, #topNav, .L, .R, #frame, #container, #h=
+eader, #navigation, #footer, #feature, #mainCol, #subCol, .content { positi=
+on: static; text-align: left; text-indent: 0px; background: white; color: b=
+lack; border-color: black; width: auto; height: auto; display: block; float=
+: none; min-height: 0px; margin: 0px; padding: 0px; }
+
+body { background: rgb(255, 255, 255); font-family: "Helvetica Neue", Helve=
+tica, Arial, sans-serif; line-height: 1.5; color: rgb(0, 0, 0); padding: 0p=
+x 3%; font-size: 10pt !important; }
+
+.hide, .nav { display: none !important; }
+
+a:link, a:visited { background: transparent; font-weight: bold; text-decora=
+tion: underline; }
+
+hr { background: rgb(204, 204, 204); color: rgb(204, 204, 204); width: 100%=
+; height: 2px; margin: 2em 0px; padding: 0px; border: none; }
+
+h1, h2, h3, h4, h5, h6 { font-family: "Helvetica Neue", Arial, "Lucida Gran=
+de", sans-serif; }
+
+code { font: 0.9em "Courier New", Monaco, Courier, monospace; display: inli=
+ne; }
+
+img { float: left; margin: 1.5em 1.5em 1.5em 0px; }
+
+a img { border: none; }
+
+blockquote { margin: 1.5em; padding: 1em; font-style: italic; font-size: 0.=
+9em; }
+
+.small { font-size: 0.9em; }
+
+.large { font-size: 1.1em; }
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://guides.rubyonrails.org/stylesheets/highlight.css
+
+@charset "utf-8";
+
+.highlight table td { padding: 5px; }
+
+.highlight table pre { margin: 0px; }
+
+.highlight .cm { color: rgb(153, 153, 136); font-style: italic; }
+
+.highlight .cp { color: rgb(153, 153, 153); font-weight: bold; }
+
+.highlight .c1 { color: rgb(153, 153, 136); font-style: italic; }
+
+.highlight .cs { color: rgb(153, 153, 153); font-weight: bold; font-style: =
+italic; }
+
+.highlight .c, .highlight .ch, .highlight .cd, .highlight .cpf { color: rgb=
+(153, 153, 136); font-style: italic; }
+
+.highlight .err { color: rgb(166, 23, 23); background-color: rgb(227, 210, =
+210); }
+
+.highlight .gd { color: rgb(0, 0, 0); background-color: rgb(255, 221, 221);=
+ }
+
+.highlight .ge { color: rgb(0, 0, 0); font-style: italic; }
+
+.highlight .gr { color: rgb(170, 0, 0); }
+
+.highlight .gh { color: rgb(153, 153, 153); }
+
+.highlight .gi { color: rgb(0, 0, 0); background-color: rgb(221, 255, 221);=
+ }
+
+.highlight .go { color: rgb(136, 136, 136); }
+
+.highlight .gp { color: rgb(85, 85, 85); }
+
+.highlight .gs { font-weight: bold; }
+
+.highlight .gu { color: rgb(170, 170, 170); }
+
+.highlight .gt { color: rgb(170, 0, 0); }
+
+.highlight .kc { color: rgb(0, 0, 0); font-weight: bold; }
+
+.highlight .kd { color: rgb(0, 0, 0); font-weight: bold; }
+
+.highlight .kn { color: rgb(0, 0, 0); font-weight: bold; }
+
+.highlight .kp { color: rgb(0, 0, 0); font-weight: bold; }
+
+.highlight .kr { color: rgb(0, 0, 0); font-weight: bold; }
+
+.highlight .kt { color: rgb(68, 85, 136); font-weight: bold; }
+
+.highlight .k, .highlight .kv { color: rgb(0, 119, 170); }
+
+.highlight .mf { color: rgb(0, 153, 153); }
+
+.highlight .mh { color: rgb(0, 153, 153); }
+
+.highlight .il { color: rgb(0, 153, 153); }
+
+.highlight .mi { color: rgb(0, 153, 153); }
+
+.highlight .mo { color: rgb(0, 153, 153); }
+
+.highlight .m, .highlight .mb, .highlight .mx { color: rgb(0, 153, 153); }
+
+.highlight .sb { color: rgb(221, 17, 68); }
+
+.highlight .sc { color: rgb(221, 17, 68); }
+
+.highlight .sd { color: rgb(221, 17, 68); }
+
+.highlight .s2 { color: rgb(221, 17, 68); }
+
+.highlight .se { color: rgb(221, 17, 68); }
+
+.highlight .sh { color: rgb(221, 17, 68); }
+
+.highlight .si { color: rgb(221, 17, 68); }
+
+.highlight .sx { color: rgb(221, 17, 68); }
+
+.highlight .sr { color: rgb(0, 153, 38); }
+
+.highlight .s1 { color: rgb(221, 17, 68); }
+
+.highlight .ss { color: rgb(153, 0, 115); }
+
+.highlight .s, .highlight .sa, .highlight .dl { color: rgb(221, 17, 68); }
+
+.highlight .na { color: rgb(0, 128, 128); }
+
+.highlight .bp { color: rgb(153, 153, 153); }
+
+.highlight .nb { color: rgb(0, 134, 179); }
+
+.highlight .nc { color: rgb(68, 85, 136); font-weight: bold; }
+
+.highlight .no { color: rgb(0, 128, 128); }
+
+.highlight .nd { color: rgb(60, 93, 93); font-weight: bold; }
+
+.highlight .ni { color: rgb(128, 0, 128); }
+
+.highlight .ne { color: rgb(153, 0, 0); font-weight: bold; }
+
+.highlight .nf, .highlight .fm { color: rgb(153, 0, 0); font-weight: bold; =
+}
+
+.highlight .nl { color: rgb(153, 0, 0); font-weight: bold; }
+
+.highlight .nn { color: rgb(85, 85, 85); }
+
+.highlight .nt { color: rgb(0, 0, 128); }
+
+.highlight .vc { color: rgb(0, 128, 128); }
+
+.highlight .vg { color: rgb(0, 128, 128); }
+
+.highlight .vi { color: rgb(0, 92, 197); }
+
+.highlight .nv, .highlight .vm { color: rgb(0, 128, 128); }
+
+.highlight .ow { color: rgb(0, 0, 0); font-weight: bold; }
+
+.highlight .o { color: rgb(0, 0, 0); font-weight: bold; }
+
+.highlight .w { color: rgb(187, 187, 187); }
+
+.highlight { background-color: transparent; }
+------MultipartBoundary--31XzVae0kup25IdDueiU0kyhPFzPOwZj6wrqVU3o2V------
